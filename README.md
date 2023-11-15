@@ -1,6 +1,7 @@
 # PlotGUI
 
 Author  : JY Choi
+
 Version : 0.9.1
 
 HOW TO USE:
