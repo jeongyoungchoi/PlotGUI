@@ -37,4 +37,4 @@ NOTES:
 
 - .dat files need to have dot (.) as decimal separator instead of comma (,)
 - Linear regression ignores the preferences set to offset option
-- Latex expressions are recognised for (manual) axes labels if they are within $$
+- LaTeX expressions are supported for (manual) axes labels if they are within $$
